@@ -1,0 +1,2 @@
+https://er.educause.edu/articles/2023/2/seeing-data-using-visualization-to-reveal-insights-and-make-decisions
+I found an insightful article that explores various aspects of data visualization and the insights derived from it. The article discusses the importance of understanding the relationship between different variables and the impact they have on outcomes, using a detailed example of student performance across various conditions such as gender, race, parental education, lunch quality, and test preparation.
