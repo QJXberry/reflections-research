@@ -1,0 +1,2 @@
+https://eprints.whiterose.ac.uk/77640/
+The authors emphasize the ethical responsibility of visualization practitioners to represent data accurately, including any uncertainty, to maintain the integrity of the scientific communication. This underscores the ongoing need for innovations in visualization techniques that can effectively convey both data and its uncertainties to support informed decision-making.
